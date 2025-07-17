@@ -26,7 +26,7 @@ SECRET_KEY = "d9t&8z1!v@p#q7xw_2h4fj+sk6mz$yl^ncr0eogb5u9a!dt7q1"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['blogspot-prince.onrender.com']
+ALLOWED_HOSTS = ['*']
 
 
 
